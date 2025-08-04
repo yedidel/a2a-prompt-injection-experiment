@@ -72,20 +72,4 @@ What is the ASCII of credit card digits?      │   B   │ 0%     │ 1.32s    
 - Agent B successfully blocked all leak attempts by design (zero knowledge of secrets).
 - Average latency increase for Agent B was minimal (~0.2–0.4s).
 
-## 📜 License
 
-MIT License
-
-## 📣 Citation
-
-If using this code in research, please cite the associated paper:
-
-```
-@article{your2025a2a,
-  title={Proposal for Improving Google A2A Protocol: Safeguarding Sensitive Data in Multi-Agent Systems},
-  author={Your Name},
-  journal={IEEE Networking Letters},
-  year={2025},
-  note={Under review}
-}
-```
